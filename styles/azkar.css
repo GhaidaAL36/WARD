@@ -28,7 +28,7 @@
 
 .content{
   padding: 30px;
-  border-bottom: #333;
+  border-bottom: 1px solid #b8b5b5;
   
 }
 
@@ -44,15 +44,11 @@
   
 }
 
-section {
-
-
-}
 
 
 .content-item{
   padding: 30px;
-  border-bottom: #333;
+  border-bottom: 1px solid #b8b5b5;
   background-color: #fff;
   text-align: center;
 }
@@ -84,9 +80,10 @@ section {
   text-decoration: none;
   background-color: #ddd;
   color: #333;
-
 }
+
 
 .sidebar-item:hover {
   background-color: #C0C0C0;
 }
+

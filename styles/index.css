@@ -48,3 +48,13 @@
   max-width: 100%;
   height: auto;
 }
+
+@media (max-width: 768px) {
+  .box {
+      flex-direction: column;
+      margin: 20px;
+  }
+  .content {
+      width: 90%;
+  }
+}
